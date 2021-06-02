@@ -1,1 +1,1 @@
-# cs372-NLP
+# cs372 Natural Language Processing
